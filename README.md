@@ -81,7 +81,7 @@ database/brewedblended_db.sql
 
 ![Receipt](screenshots/admin-screen.png)
 
-## Learnings
+## Learnings Outcomes
 
 - Object-Oriented Programming (OOP)
 - Java GUI Development
