@@ -100,8 +100,8 @@ database/brewedblended_db.sql
 
 ## Authors
 
-Bai Fatima Andong
-Christian James Cahilig
-Karylle Mish Gellica
-Jan Loren Odiong
+Bai Fatima Andong | 
+Christian James Cahilig | 
+Karylle Mish Gellica | 
+Jan Loren Odiong | 
 John Llorie Sarmiento
