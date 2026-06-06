@@ -81,15 +81,6 @@ database/brewedblended_db.sql
 
 ![Receipt](screenshots/admin-screen.png)
 
-## Learnings Outcomes
-
-- Object-Oriented Programming (OOP)
-- Java GUI Development
-- Database Design and Management
-- JDBC Integration
-- Event-Driven Programming
-- Software Development Lifecycle
-
 ## Future Improvements
 
 - User authentication and role management
@@ -98,10 +89,25 @@ database/brewedblended_db.sql
 - Online ordering support
 - Enhanced reporting features
 
-## Authors
 
-Bai Fatima Andong | 
-Christian James Cahilig | 
-Karylle Mish Gellica | 
-Jan Loren Odiong | 
-John Llorie Sarmiento
+## Contributors
+
+This project was developed as a group project.
+
+### Team Members
+
+- Christian James Cahilig
+- Bai Fatima Andong
+- Karylle Mish Gellica
+- Jan Loren Odiong
+- John Llorie Sarmiento
+
+
+## Learnings Outcomes
+
+- Object-Oriented Programming (OOP)
+- Java GUI Development
+- Database Design and Management
+- JDBC Integration
+- Event-Driven Programming
+- Software Development Lifecycle
