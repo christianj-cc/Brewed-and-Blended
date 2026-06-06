@@ -70,15 +70,16 @@ database/brewedblended_db.sql
 
 ### Main Interface
 
-![Main Interface](screenshots/main-interface.png)
+![Login Screen](screenshots/login.png)
+![Register Screen](screenshots/register.png)
 
 ### Ordering Screen
 
-![Ordering Screen](screenshots/ordering-screen.png)
+![Ordering Screen](screenshots/order-screen.png)
 
-### Receipt Generation
+### Admin Screen
 
-![Receipt](screenshots/receipt-screen.png)
+![Receipt](screenshots/admin-screen.png)
 
 ## What I Learned
 
