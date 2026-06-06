@@ -81,9 +81,7 @@ database/brewedblended_db.sql
 
 ![Receipt](screenshots/admin-screen.png)
 
-## What I Learned
-
-Through this project, I strengthened my skills in:
+## Learnings
 
 - Object-Oriented Programming (OOP)
 - Java GUI Development
@@ -100,8 +98,10 @@ Through this project, I strengthened my skills in:
 - Online ordering support
 - Enhanced reporting features
 
-## Author
+## Authors
 
-James [Your Last Name]
-
-Computer Science Student | Software Developer
+Bai Fatima Andong
+Christian James Cahilig
+Karylle Mish Gellica
+Jan Loren Odiong
+John Llorie Sarmiento
