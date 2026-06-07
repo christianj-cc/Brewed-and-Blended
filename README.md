@@ -4,13 +4,11 @@
 
 Brewed & Blended is a desktop-based café ordering system developed using Java Swing, JDBC, and MySQL. The application was designed to streamline order processing, transaction management, and receipt generation while providing a user-friendly experience for both customers and staff.
 
----
 
 ## Overview
 
 This project was developed as part of my academic journey in software development and database management. The goal was to create a digital ordering solution that simplifies café operations and improves service efficiency through an intuitive graphical interface.
 
----
 
 ## Features
 
@@ -22,7 +20,6 @@ This project was developed as part of my academic journey in software developmen
 - MySQL database integration
 - User-friendly graphical interface
 
----
 
 ## Technologies Used
 
@@ -34,7 +31,6 @@ This project was developed as part of my academic journey in software developmen
 - NetBeans IDE
 - FlatLaf
 
----
 
 ## Project Structure
 
@@ -80,6 +76,7 @@ database/brewedblended_db.sql
 ### Admin Screen
 
 ![Receipt](screenshots/admin-screen.png)
+
 
 ## Future Improvements
 
