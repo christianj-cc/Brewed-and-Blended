@@ -1,4 +1,4 @@
-# ☕ Brewed & Blended
+# Brewed & Blended
 
 ### Java-Based Café Ordering and Transaction Management System
 
