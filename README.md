@@ -38,6 +38,7 @@ This project was developed as part of my academic journey in software developmen
 src/            Source code
 database/       SQL database file
 screenshots/    Application screenshots
+docs/           Project documentation
 lib/            External dependencies
 ```
 
